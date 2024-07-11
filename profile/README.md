@@ -13,7 +13,7 @@
 Notifications will also be submitted to [mirrorz-org/.github](https://github.com/mirrorz-org/.github) repo as issues. You can **watch** the repo for latest notifications.
 
 > [!IMPORTANT]
-> 2024/07/11: 由于网络割接，07/12 14:30-16:30 时间段中 <https://mirrors.cernet.edu.cn> 与 <https://help.mirrors.cernet.edu.cn> 的可用性会受到影响，请有需要的用户提前做好设置。
+> 2024/07/11: 由于网络割接，07/12 ~~14:30-16:30~~ 16:00-18:00 时间段中 <https://mirrors.cernet.edu.cn> 与 <https://help.mirrors.cernet.edu.cn> 的可用性会受到影响，请有需要的用户提前做好设置。
 
 ### Projects
 
