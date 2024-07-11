@@ -1,6 +1,6 @@
 ## MirrorZ
 
-<https://mirrorz.org> / <https://mirrors.cernet.edu.cn>
+[mirrorz.org](//mirrorz.org) / [mirrors.cernet.edu.cn](//mirrors.cernet.edu.cn)
 
 "Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ."
 
@@ -10,9 +10,10 @@
 
 ### Notifications
 
-Notifications would also be submitted to [mirrorz-org/.github](https://github.com/mirrorz-org/.github) repo as issues. You could **watch** the repo for latest notifications.
+Notifications will also be submitted to [mirrorz-org/.github](https://github.com/mirrorz-org/.github) repo as issues. You can **watch** the repo for latest notifications.
 
-2024/07/11: 由于网络割接，07/12 14:30-16:30 时间段中 <https://mirrors.cernet.edu.cn> 与 <https://help.mirrors.cernet.edu.cn> 的可用性会受到影响，请有需要的用户提前做好设置。
+> [!IMPORTANT]
+> 2024/07/11: 由于网络割接，07/12 14:30-16:30 时间段中 <https://mirrors.cernet.edu.cn> 与 <https://help.mirrors.cernet.edu.cn> 的可用性会受到影响，请有需要的用户提前做好设置。
 
 ### Projects
 
