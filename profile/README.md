@@ -20,5 +20,4 @@ Notifications will also be submitted to [mirrorz-org/.github](https://github.com
 - [mirrorz](https://github.com/mirrorz-org/mirrorz)
 - [mirrorz-help](https://github.com/mirrorz-org/mirrorz-help) and [mirrorz-docs](https://github.com/mirrorz-org/mirrorz-docs)
 - [mirrorz-302](https://github.com/mirrorz-org/mirrorz-302)
-- [oh-my-mirrorz](https://github.com/mirrorz-org/oh-my-mirrorz)
 - [genisolist](https://github.com/mirrorz-org/genisolist)
